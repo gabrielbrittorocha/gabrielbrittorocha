@@ -6,6 +6,13 @@
 
 Sou um entusiasta de tecnologia apaixonado por explorar o mundo da inovação e da programação.
 
+
+## Linguagens e tecnologias
+
+ HTML | CSS | JS | Node  | SQL | 
+
+Em constante evolução para poder cada vez mais me aprimorar.
+
 ## Objetivos
 
 Meu objetivo é contribuir para a comunidade de tecnologia, compartilhar conhecimento e aprender com outros desenvolvedores. 
